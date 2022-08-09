@@ -1,0 +1,7 @@
+*.mp4
+*.exe
+*.bin
+*.out
+cmake-build-debug/
+.vscode/
+.idea/
