@@ -6,3 +6,6 @@ cmake-build-debug/
 .vscode/
 .idea/
 media/
+
+input.txt
+output.txt
