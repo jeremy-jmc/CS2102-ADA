@@ -1,0 +1,57 @@
+
+
+COUNTING
+
+rule of sum/product
+k-string
+	k-substring
+permutation
+	k-permutation
+combination
+	k-combination
+binomial coefficients
+	binomial expansion
+binomial bounds
+	binary entropy function
+
+
+PROBABILITY
+
+sample space
+elementary events
+event
+	certain event
+	null event
+mutually exclusive
+probability distribution
+	probability axioms
+
+discrete probability distribution
+
+uniform probability distribution
+
+continuous uniform probability distribution
+
+conditional probability and independence
+
+baye's theorem
+
+
+DISCRETE RANDOM VARIABLES
+
+discrete random variable
+probability density function
+joint probability density function
+expected value of a random variable
+	expected value, expectation, mean
+	linearity of expectation
+variance and standard deviation
+
+GEOMETRIC AND BINOMIAL DISTRIBUTIONS
+	geometric
+	binomial
+
+TAILS OF BINOMIAL DISTRIBUTION
+
+
+
