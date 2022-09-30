@@ -8,9 +8,9 @@ s4:
 	xdg-open ./lectures/2022-2/ADA-diapos-dc-2.pdf && xdg-open ./exercises/2022-2/ejercicios-dc2.pdf && xdg-open ./notes/2022-2/ADA-notas-dc-2.pdf
 s5:
 	xdg-open ./lectures/2022-2/ADA-diapos-heap.pdf && xdg-open ./notes/2022-2/ADA-notas-heap.pdf && xdg-open ./exercises/2022-2/ejercicios-heap.pdf
-s6:
-	xdg-open ./lectures/2022-2/ADA-diapos-pq.pdf
 s7:
+	xdg-open ./lectures/2022-2/ADA-diapos-pq.pdf && xdg-open ./notes/2022-2/ADA-notas-probyqs.pdf && xdg-open ./exercises/2022-2/ejercicios-probqs.pdf
+s9:
 	xdg-open ./lectures/2022-2/ADA-diapos-dp.pdf
 s10:
 	xdg-open ./lectures/2022-2/ADA-diapos-greedy.pdf	

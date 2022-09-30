@@ -8,7 +8,7 @@ int parent(int i){ return i/2; }
 
 int left(int i){ return 2*i; }
 
-int right(int i){ return 2*i + 1;}
+int right(int i){ return 2*i + 1; }
 
 int heap_maximum(const vector<int>& A){ return A[1]; }
 

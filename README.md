@@ -14,3 +14,4 @@
 - [binary tree inductive proofs](https://blog.domfarolino.com/Binary-Tree-Inductive-Proofs/)
 - [full binary tree theorem](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/BinaryTreeFullThm.html)
 - [induction proofs on trees](https://courses.engr.illinois.edu/cs173/fa2016/B-lecture/Lectures/Example%20Tree%20Induction%20Proofs.pdf)
+- [probabilistic and randomized algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture6.pdf)

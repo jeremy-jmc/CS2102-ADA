@@ -41,7 +41,6 @@ void build_min_heap(vector<int>& A)
         min_heapify(A, i);
         PRINT_VEC(A);
     }
-
 }
 
 void heap_decrease_key(vector<int>& A, int i, int key)
