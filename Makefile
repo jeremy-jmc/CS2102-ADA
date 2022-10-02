@@ -22,3 +22,5 @@ s15:
 	xdg-open ./lectures/2022-2/ADA-diapos-grafos.pdf	
 ex1:
 	xdg-open ./exams/2021/ex1.pdf && xdg-open ./exams/2022-0/ex1.pdf && xdg-open ./exams/2022-1/ex1_1.pdf
+cormen:
+	xdg-open ./books/Cormen.pdf
