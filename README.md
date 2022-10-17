@@ -15,3 +15,7 @@
 - [full binary tree theorem](https://opendsa-server.cs.vt.edu/OpenDSA/Books/CS3/html/BinaryTreeFullThm.html)
 - [induction proofs on trees](https://courses.engr.illinois.edu/cs173/fa2016/B-lecture/Lectures/Example%20Tree%20Induction%20Proofs.pdf)
 - [probabilistic and randomized algorithms](https://web.stanford.edu/class/archive/cs/cs161/cs161.1168/lecture6.pdf)
+- [Weighted Interval Scheduling](https://courses.cs.washington.edu/courses/cse521/13wi/slides/06dp-sched.pdf)
+- [Weighted Interval Scheduling](https://student.cs.uwaterloo.ca/~cs341/lectures/w22/lec9.pdf)
+- [Weighted Interval Scheduling](https://www.cse.chalmers.se/~ptr/alg3-2021.pdf)
+- [Weighted Interval Scheduling](https://www.cs.umd.edu/class/fall2017/cmsc451-0101/Lects/lect10-dp-intv-sched.pdf)
