@@ -22,5 +22,15 @@ s15:
 	xdg-open ./lectures/2022-2/ADA-diapos-grafos.pdf	
 ex1:
 	xdg-open ./exams/2021/ex1.pdf && xdg-open ./exams/2022-0/ex1.pdf && xdg-open ./exams/2022-1/ex1_1.pdf
+ex2:
+	xdg-open ./exams/2021/ex2.pdf && xdg-open ./exams/2022-0/ex2_6.pdf && xdg-open ./exams/2022-1/ex2_2.pdf
+ex3:
+	xdg-open ./exams/2021/ex3.pdf && xdg-open ./exams/2022-0/ex3_5.pdf && xdg-open ./exams/2022-1/ex3_2.pdf
+e2_1:
+	xdg-open ./exams/2021/ex2.pdf && xdg-open ./exams/2021/ex3.pdf 
+e2_2:
+	xdg-open ./exams/2022-0/ex2_6.pdf && xdg-open ./exams/2022-0/ex3_5.pdf
+e2_3:
+	xdg-open ./exams/2022-1/ex2_2.pdf && xdg-open ./exams/2022-1/ex3_2.pdf
 cormen:
 	xdg-open ./books/Cormen.pdf
