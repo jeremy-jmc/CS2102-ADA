@@ -12,9 +12,9 @@ s7:
 	xdg-open ./lectures/2022-2/ADA-diapos-pq.pdf && xdg-open ./notes/2022-2/ADA-notas-probyqs.pdf && xdg-open ./exercises/2022-2/ejercicios-probqs.pdf && xdg-open ./xopp/probyqs.xopp
 s9:
 	xdg-open ./lectures/2022-2/ADA-diapos-dp.pdf && xdg-open ./notes/2022-2/ADA-notas-dp.pdf && xdg-open ./exercises/2022-2/ejercicios-dp.pdf && xdg-open ./xopp/dp.xopp
-s10:
-	xdg-open ./lectures/2022-2/ADA-diapos-greedy.pdf	
 s12:
+	xdg-open ./lectures/2022-2/ADA-diapos-greedy.pdf && xdg-open ./notes/2022-2/ADA-notas-greedy.pdf && xdg-open ./xopp/greedy.xopp && xdg-open ./exercises/2022-2/ejercicios-greedy.pdf
+s13:
 	xdg-open ./lectures/2022-2/ADA-diapos-ord.pdf	
 s14:
 	xdg-open ./lectures/2022-2/ADA-diapos-amortizado.pdf	
