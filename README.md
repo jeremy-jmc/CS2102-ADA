@@ -19,3 +19,4 @@
 - [Weighted Interval Scheduling](https://student.cs.uwaterloo.ca/~cs341/lectures/w22/lec9.pdf)
 - [Weighted Interval Scheduling](https://www.cse.chalmers.se/~ptr/alg3-2021.pdf)
 - [Weighted Interval Scheduling](https://www.cs.umd.edu/class/fall2017/cmsc451-0101/Lects/lect10-dp-intv-sched.pdf)
+- [Counting sort](https://classes.engineering.wustl.edu/cse502/notes/class15.pdf)
