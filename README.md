@@ -20,3 +20,5 @@
 - [Weighted Interval Scheduling](https://www.cse.chalmers.se/~ptr/alg3-2021.pdf)
 - [Weighted Interval Scheduling](https://www.cs.umd.edu/class/fall2017/cmsc451-0101/Lects/lect10-dp-intv-sched.pdf)
 - [Counting sort](https://classes.engineering.wustl.edu/cse502/notes/class15.pdf)
+- [Floyd Warshall](https://wcipeg.com/wiki/Floyd%E2%80%93Warshall_algorithm)
+- [Proof of correctness of FW](https://cs.stackexchange.com/questions/98971/confirmation-of-alternative-correctness-proof-for-floyd-warshalls-all-pair-shor)
