@@ -1,0 +1,33 @@
+/*
+PROBLEMA DE CAMINOS MINIMOS
+Todo debe estar fijado sino se vuelve trivial
+- distancia entre u y v
+- longitud de un camino
+- camino minimo entre u y v
+
+NO SE VALE DECIR EL CAMINO MINIMO
+el concepto de distancia implica minimalidad
+    puden existir muchos caminos minimos
+
+Si se quiere calcular la distancia de S hacia los demas vertices, cual es el vertice mas facil para el cual se le puede sacar la distancia
+    RSPTA: S mismo, con distancia 0
+
+Dijkstra toma cierta idea de BFS    
+    Dijkstra descubre los nodos de a pocos
+    R: conjunto de vertices para los cuales ya se calculo la distancia
+    S: fuente, desde donde se calcula la distancia hacia los demas
+
+El vertice mas facil hacia donde se puede calcular la distancia es S mismo
+    El siguiente vertice es al vecino con menor distancia desde S
+La idea de Dijkstra es ir incrementando en conjunto R
+
+PREGUNTA: Como introducir un nuevo nodo al conjuntor R?
+
+
+Todo subcamino de un camino minimo, es minimo
+    Si no lo es, entonces -> reemplazo el subcamino por el subcamino minimo
+
+El vertice anterior siempre esta en R, entonces ya se sabe la distancia a ese vertice
+
+Para cada camino que repite vertices, existe un camino minimo que no repite vertices
+*/
